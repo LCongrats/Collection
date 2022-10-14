@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection.iml" filepath="$PROJECT_DIR$/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../File-Learn/FILE.iml" filepath="$PROJECT_DIR$/../File-Learn/FILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LockBack-Api/LockBack-Api.iml" filepath="$PROJECT_DIR$/../LockBack-Api/LockBack-Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Net-App/Net-App.iml" filepath="$PROJECT_DIR$/../Net-App/Net-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Proxy/Proxy.iml" filepath="$PROJECT_DIR$/../Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Reflect/Reflect.iml" filepath="$PROJECT_DIR$/../Reflect/Reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ThreadText/ThreadText.iml" filepath="$PROJECT_DIR$/../ThreadText/ThreadText.iml" />
+    </modules>
+  </component>
+</project>
